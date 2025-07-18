@@ -7,16 +7,16 @@ Data Analysis | Beginner Project | SQL | Power BI
 - Goals:
 
   1. Exploring gathered data
-      Creating database
-      Importing .csv files as tables
-      Writing queries to produce final table
+  2. Creating database, 
+  3. Importing .csv files as tables, 
+  4. Writing queries to produce final table
 
-  2. Building a dashboard
+  5. Building a dashboard
      
-      Importing data from SQL Server
-      Transforming data in Power Query
-      Creating measure for Profit Margin
-      Representing Hourly Revenue, Profit and Revenue Analysis, Seasonal Revenue, Rider Types
+  6. Importing data from SQL Server
+  7. Transforming data in Power Query
+  8. Creating measure for Profit Margin
+  9. Representing Hourly Revenue, Profit and Revenue Analysis, Seasonal Revenue, Rider Types
 
 # Dashboard
 

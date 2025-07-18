@@ -18,6 +18,10 @@ Data Analysis | Beginner Project | SQL | Power BI
       Creating measure for Profit Margin
       Representing Hourly Revenue, Profit and Revenue Analysis, Seasonal Revenue, Rider Types
 
+# Dashboard
+
+![Bike-Shop](Dashboard.PNG)
+
 # Technologies Used:
 SQL Server Management Studio, Power BI Desktop
 
